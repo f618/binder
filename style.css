@@ -33,6 +33,15 @@ body {
 	overflow: scroll;
 }
 
+#navi {
+	width: 100%;
+	height: 8%;
+	background-color: black;
+	color: #eee;
+	padding: 10px;
+	margin: auto;
+}
+
 #menu {
 	position: fixed;
 	left: 10px;
